@@ -1,0 +1,3 @@
+git branch -a
+git branch branch_name
+git switch branch_name
